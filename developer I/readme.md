@@ -51,10 +51,7 @@ O objetivo deste repositório é conter resumo dos tópicos com foco  na certifi
 ## :pushpin: Índice
 
 - :pushpin: [Índice por domínios do exame](#pushpin-índice-por-domínios-do-exame)
-- [Sobre o exame](#sobre-o-exame)
-- [Comece por aqui](#comece-por-aqui)
 
-- :anchor: [Links Úteis](#anchor-links-úteis)
 - **Serviços AWS**
   - [API Gateway](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/API-Gateway.md "Crie, implante e gerencie APIs")
   - [Aurora](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap/blob/master/resumos/Aurora.md "Serviço de banco de dados relacional gerenciado")
