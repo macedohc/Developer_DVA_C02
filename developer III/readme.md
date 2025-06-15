@@ -1,19 +1,5 @@
 # 🧠👩🏻‍🎓 Certificação AWS Certified Developer – Associate
 
-
-  * [Assuntos](https://www.google.com/search?q=%23assunto)
-      - [Pesos](https://www.google.com/search?q=%23Pesos)
-      - [O que é a Computação em Nuvem?](https://www.google.com/search?q=%23nuvem)
-      - [Vantagens da Computação em Nuvem](https://www.google.com/search?q=%23vantagens)
-      - [Serviços Essenciais de Computação](https://www.google.com/search?q=%23servicos_computacao)
-      - [Infraestrutura Global e Confiabilidade](https://www.google.com/search?q=%23infra)
-      - [Redes](https://www.google.com/search?q=%23redes)
-      - [Armazenamento e Bancos de Dados](https://www.google.com/search?q=%23banco)
-      - [Segurança](https://www.google.com/search?q=%23seguranca)
-      - [Monitoramento e Análise](https://www.google.com/search?q=%23Monitoramento)
-      - [Definição de Preços e Suporte](https://www.google.com/search?q=%23preco)
-      - [Implantação e Gerenciamento de Aplicações](https://www.google.com/search?q=%23deployment)
-
 -----
 
 ## Pesos 🏋️
